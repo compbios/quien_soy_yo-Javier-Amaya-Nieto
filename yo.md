@@ -10,7 +10,7 @@
 
 
 ## Mi perfil actual
-Soy médico y estudiante de la maestría de Epidemiología Clínica de la **Universidad Nacional de Colombia**, trabajo en el Hospital Universitario Nacional(HUN) y en el Instituto de Investigaciones Clínicas de la UNAL como estudiante auxiliar. Siempre me ha gustado la investigación y he encontrado en la bioestadística, una herramienta muy útil para analizar los problemas que se plantean en los proyectos de investigación.  
+Soy médico y estudiante de la maestría de Epidemiología Clínica de la **Universidad Nacional de Colombia**. Trabajo en el Hospital Universitario Nacional(HUN) y en el Instituto de Investigaciones Clínicas de la UNAL como estudiante auxiliar. Siempre me ha gustado la investigación y he encontrado en la bioestadística, una herramienta muy útil para analizar los problemas que se plantean en los proyectos de investigación.  
 
 
 ## Experiencia previa
